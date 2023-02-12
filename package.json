@@ -1,0 +1,16 @@
+{
+  "name": "myfirstnode",
+  "version": "1.0.0",
+  "description": "my firs site with modules",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Natalik",
+  "license": "ISC",
+  "dependencies": {
+    "embla-carousel": "^7.0.9",
+    "hamburgers": "^1.2.1",
+    "moment": "^2.29.4"
+  }
+}
